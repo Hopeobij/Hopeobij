@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hope Obijiaku...</h1>
-<h5 align="center">A certified Data Scientist, Data Analyst and Founder of Daniel Analytics. I help companies, businesses and stakeholders make data-driving decisions to drive business growth, by providing interactive dashboards, inofrmative and effective recommendations</h5>
+<h5 align="center">A certified Data Analyst. I help companies, businesses and stakeholders make data-driving decisions to drive business growth, by providing interactive dashboards, inofrmative and effective recommendations</h5>
 
 <p align="center"> <a href="http://www.linkedin.com/in/hope-obijiaku-data-analyst"><img src="https://img.shields.io/badge/-Connect With Hope%20Obijiakor-blue?logo=linkedin&style=for-the-badge" alt="Hope Obijiaku" /></a>
 <p align="center"> <a href="https://instagram.com/hopeobij?igshid=ZDdkNTZiNTM="><img src="https://img.shields.io/badge/-Follow Hope%20Obijiaku-white?logo=instagram&style=for-the-badge" alt="Hope Obijiaku" /></a>
@@ -39,10 +39,6 @@
 -	Are there any areas that require improvement in the airport activities of the selected countries?
 -	What recommendations can be proposed to improve airport activities in the selected countries?
 
-  
-  
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
 <!---
 Hopeobij/Hopeobij is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
