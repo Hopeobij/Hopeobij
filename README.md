@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hope Obijiaku...</h1>
 <h5 align="center">A certified Data Analyst. I help companies, businesses and stakeholders make data-driving decisions to drive business growth, by providing interactive dashboards, inofrmative and effective recommendations</h5>
 
-<p align="center"> <a href="http://www.linkedin.com/in/hope-obijiaku-data-analyst"><img src="https://img.shields.io/badge/-Connect With Hope%20Obijiakor-blue?logo=linkedin&style=for-the-badge" alt="Hope Obijiaku" /></a>
+<p align="center"> <a href="http://www.linkedin.com/in/hope-obijiaku-data-analyst"><img src="https://img.shields.io/badge/-Connect With Hope%20Obijiaku-blue?logo=linkedin&style=for-the-badge" alt="Hope Obijiaku" /></a>
 <p align="center"> <a href="https://instagram.com/hopeobij?igshid=ZDdkNTZiNTM="><img src="https://img.shields.io/badge/-Follow Hope%20Obijiaku-white?logo=instagram&style=for-the-badge" alt="Hope Obijiaku" /></a>
 
 
