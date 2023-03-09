@@ -9,7 +9,7 @@
 
 - 👋 Hi, I’m Hope Obijiaku
   
-- 👀 I’m A Data Witch, Yes I Cast Those Dangerous Spells On Data!
+- 👀 The thrill of analyzing data and uncovering insights that drive real-world impact is what fuels my passion for data.
   
 - 🌱 I’m ever learning more on SQL, PowerBI and Tableau for Data Analysis
   
