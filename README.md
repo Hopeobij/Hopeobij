@@ -3,8 +3,8 @@
 
 <p align="center"> <a href="http://www.linkedin.com/in/hope-obijiaku-data-analyst"><img src="https://img.shields.io/badge/-Connect With Hope%20Obijiaku-blue?logo=linkedin&style=for-the-badge" alt="Hope Obijiaku" /></a>
 <p align="center"> <a href="https://instagram.com/hopeobij?igshid=ZDdkNTZiNTM="><img src="https://img.shields.io/badge/-Follow Hope%20Obijiaku-white?logo=instagram&style=for-the-badge" alt="Hope Obijiaku" /></a>
-
-
+<p align="center"> <a href="https://getfidia.com/hope_obijiaku_portfolio/"><img src="https://img.shields.io/badge/-My Portfolio%20Website-white?logo=web&style=for-the-badge" alt="My Portfolio Website" /></a>
+  
 
 
 - 👋 Hi, I’m Hope Obijiaku
